@@ -51,7 +51,7 @@ section {
 
 
    div {
-    overflow:scroll;
+     overflow: hidden;
     width: 400px;
     height: 400px;
   }
